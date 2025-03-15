@@ -1,0 +1,370 @@
+.elementor-1374 .elementor-element.elementor-element-8f17172 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --gap: 100px 100px;
+  --row-gap: 100px;
+  --column-gap: 100px;
+}
+.elementor-widget-image .widget-image-caption {
+  color: var(--e-global-color-text);
+  font-family: var(--e-global-typography-text-font-family), Sans-serif;
+  font-size: var(--e-global-typography-text-font-size);
+  font-weight: var(--e-global-typography-text-font-weight);
+  line-height: var(--e-global-typography-text-line-height);
+}
+.elementor-1374 .elementor-element.elementor-element-eea4cc0 {
+  text-align: left;
+}
+.elementor-1374 .elementor-element.elementor-element-eea4cc0 img {
+  width: 100%;
+  max-width: 170px;
+}
+.elementor-1374 .elementor-element.elementor-element-c768552 {
+  --display: flex;
+}
+.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after {
+  border-color: var(--e-global-color-text);
+}
+.elementor-widget-icon-list .elementor-icon-list-icon i {
+  color: var(--e-global-color-primary);
+}
+.elementor-widget-icon-list .elementor-icon-list-icon svg {
+  fill: var(--e-global-color-primary);
+}
+.elementor-widget-icon-list
+  .elementor-icon-list-item
+  > .elementor-icon-list-text,
+.elementor-widget-icon-list .elementor-icon-list-item > a {
+  font-family: var(--e-global-typography-text-font-family), Sans-serif;
+  font-size: var(--e-global-typography-text-font-size);
+  font-weight: var(--e-global-typography-text-font-weight);
+  line-height: var(--e-global-typography-text-line-height);
+}
+.elementor-widget-icon-list .elementor-icon-list-text {
+  color: var(--e-global-color-secondary);
+}
+.elementor-1374
+  .elementor-element.elementor-element-87d302a
+  .elementor-icon-list-items:not(.elementor-inline-items)
+  .elementor-icon-list-item:not(:last-child) {
+  padding-bottom: calc(20px / 2);
+}
+.elementor-1374
+  .elementor-element.elementor-element-87d302a
+  .elementor-icon-list-items:not(.elementor-inline-items)
+  .elementor-icon-list-item:not(:first-child) {
+  margin-top: calc(20px / 2);
+}
+.elementor-1374
+  .elementor-element.elementor-element-87d302a
+  .elementor-icon-list-items.elementor-inline-items
+  .elementor-icon-list-item {
+  margin-right: calc(20px / 2);
+  margin-left: calc(20px / 2);
+}
+.elementor-1374
+  .elementor-element.elementor-element-87d302a
+  .elementor-icon-list-items.elementor-inline-items {
+  margin-right: calc(-20px / 2);
+  margin-left: calc(-20px / 2);
+}
+body.rtl
+  .elementor-1374
+  .elementor-element.elementor-element-87d302a
+  .elementor-icon-list-items.elementor-inline-items
+  .elementor-icon-list-item:after {
+  left: calc(-20px / 2);
+}
+body:not(.rtl)
+  .elementor-1374
+  .elementor-element.elementor-element-87d302a
+  .elementor-icon-list-items.elementor-inline-items
+  .elementor-icon-list-item:after {
+  right: calc(-20px / 2);
+}
+.elementor-1374
+  .elementor-element.elementor-element-87d302a
+  .elementor-icon-list-icon
+  i {
+  color: var(--e-global-color-secondary);
+  transition: color 0.3s;
+}
+.elementor-1374
+  .elementor-element.elementor-element-87d302a
+  .elementor-icon-list-icon
+  svg {
+  fill: var(--e-global-color-secondary);
+  transition: fill 0.3s;
+}
+.elementor-1374 .elementor-element.elementor-element-87d302a {
+  --e-icon-list-icon-size: 20px;
+  --e-icon-list-icon-align: center;
+  --e-icon-list-icon-margin: 0 calc(var(--e-icon-list-icon-size, 1em) * 0.125);
+  --icon-vertical-align: center;
+  --icon-vertical-offset: 0px;
+}
+.elementor-1374
+  .elementor-element.elementor-element-87d302a
+  .elementor-icon-list-item
+  > .elementor-icon-list-text,
+.elementor-1374
+  .elementor-element.elementor-element-87d302a
+  .elementor-icon-list-item
+  > a {
+  font-family: "Cormorant Infant", Sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 1em;
+}
+.elementor-1374
+  .elementor-element.elementor-element-87d302a
+  .elementor-icon-list-text {
+  transition: color 0.3s;
+}
+.elementor-1374 .elementor-element.elementor-element-5f924b7 {
+  --display: grid;
+  --e-con-grid-template-columns: repeat(2, 1fr);
+  --e-con-grid-template-rows: repeat(1, 1fr);
+  --gap: 0px 60px;
+  --row-gap: 0px;
+  --column-gap: 60px;
+  --grid-auto-flow: row;
+  --padding-top: 0px;
+  --padding-bottom: 0px;
+  --padding-left: 0px;
+  --padding-right: 0px;
+}
+.elementor-1374
+  .elementor-element.elementor-element-eb80053
+  .elementor-icon-list-items:not(.elementor-inline-items)
+  .elementor-icon-list-item:not(:last-child) {
+  padding-bottom: calc(10px / 2);
+}
+.elementor-1374
+  .elementor-element.elementor-element-eb80053
+  .elementor-icon-list-items:not(.elementor-inline-items)
+  .elementor-icon-list-item:not(:first-child) {
+  margin-top: calc(10px / 2);
+}
+.elementor-1374
+  .elementor-element.elementor-element-eb80053
+  .elementor-icon-list-items.elementor-inline-items
+  .elementor-icon-list-item {
+  margin-right: calc(10px / 2);
+  margin-left: calc(10px / 2);
+}
+.elementor-1374
+  .elementor-element.elementor-element-eb80053
+  .elementor-icon-list-items.elementor-inline-items {
+  margin-right: calc(-10px / 2);
+  margin-left: calc(-10px / 2);
+}
+body.rtl
+  .elementor-1374
+  .elementor-element.elementor-element-eb80053
+  .elementor-icon-list-items.elementor-inline-items
+  .elementor-icon-list-item:after {
+  left: calc(-10px / 2);
+}
+body:not(.rtl)
+  .elementor-1374
+  .elementor-element.elementor-element-eb80053
+  .elementor-icon-list-items.elementor-inline-items
+  .elementor-icon-list-item:after {
+  right: calc(-10px / 2);
+}
+.elementor-1374
+  .elementor-element.elementor-element-eb80053
+  .elementor-icon-list-icon
+  i {
+  transition: color 0.3s;
+}
+.elementor-1374
+  .elementor-element.elementor-element-eb80053
+  .elementor-icon-list-icon
+  svg {
+  transition: fill 0.3s;
+}
+.elementor-1374 .elementor-element.elementor-element-eb80053 {
+  --e-icon-list-icon-size: 14px;
+  --icon-vertical-offset: 0px;
+}
+.elementor-1374
+  .elementor-element.elementor-element-eb80053
+  .elementor-icon-list-item
+  > .elementor-icon-list-text,
+.elementor-1374
+  .elementor-element.elementor-element-eb80053
+  .elementor-icon-list-item
+  > a {
+  font-family: "Cormorant Infant", Sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.3em;
+}
+.elementor-1374
+  .elementor-element.elementor-element-eb80053
+  .elementor-icon-list-text {
+  transition: color 0.3s;
+}
+.elementor-widget-button .elementor-button {
+  background-color: var(--e-global-color-accent);
+  font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+  font-size: var(--e-global-typography-accent-font-size);
+  font-weight: var(--e-global-typography-accent-font-weight);
+  line-height: var(--e-global-typography-accent-line-height);
+}
+.elementor-1374
+  .elementor-element.elementor-element-5457465
+  > .elementor-widget-container {
+  margin: 20px 0px 0px 0px;
+}
+.elementor-1374 .elementor-element.elementor-element-5457465 .elementor-button {
+  padding: 16px 16px 16px 16px;
+}
+#elementor-popup-modal-1374 .dialog-widget-content {
+  background-color: #121212;
+  background-image: url("https://jetsavetours.in/wp-content/uploads/2024/03/Vector-10-2.png");
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: auto;
+  box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+#elementor-popup-modal-1374 {
+  background-color: rgba(0, 0, 0, 0.8);
+  justify-content: flex-start;
+  align-items: flex-start;
+  pointer-events: all;
+}
+#elementor-popup-modal-1374 .dialog-message {
+  width: 100vw;
+  height: 100vh;
+  align-items: flex-start;
+  padding: 60px 20px 20px 20px;
+}
+#elementor-popup-modal-1374 .dialog-close-button {
+  display: flex;
+  top: 105px;
+  font-size: 30px;
+}
+body:not(.rtl) #elementor-popup-modal-1374 .dialog-close-button {
+  right: 20px;
+}
+body.rtl #elementor-popup-modal-1374 .dialog-close-button {
+  left: 20px;
+}
+#elementor-popup-modal-1374 .dialog-close-button i {
+  color: var(--e-global-color-secondary);
+}
+#elementor-popup-modal-1374 .dialog-close-button svg {
+  fill: var(--e-global-color-secondary);
+}
+@media (max-width: 1024px) {
+  .elementor-widget-image .widget-image-caption {
+    font-size: var(--e-global-typography-text-font-size);
+    line-height: var(--e-global-typography-text-line-height);
+  }
+  .elementor-widget-icon-list
+    .elementor-icon-list-item
+    > .elementor-icon-list-text,
+  .elementor-widget-icon-list .elementor-icon-list-item > a {
+    font-size: var(--e-global-typography-text-font-size);
+    line-height: var(--e-global-typography-text-line-height);
+  }
+  .elementor-1374
+    .elementor-element.elementor-element-87d302a
+    .elementor-icon-list-item
+    > .elementor-icon-list-text,
+  .elementor-1374
+    .elementor-element.elementor-element-87d302a
+    .elementor-icon-list-item
+    > a {
+    font-size: 38px;
+  }
+  .elementor-1374 .elementor-element.elementor-element-5f924b7 {
+    --grid-auto-flow: row;
+  }
+  .elementor-1374
+    .elementor-element.elementor-element-eb80053
+    .elementor-icon-list-item
+    > .elementor-icon-list-text,
+  .elementor-1374
+    .elementor-element.elementor-element-eb80053
+    .elementor-icon-list-item
+    > a {
+    font-size: 18px;
+  }
+  .elementor-widget-button .elementor-button {
+    font-size: var(--e-global-typography-accent-font-size);
+    line-height: var(--e-global-typography-accent-line-height);
+  }
+}
+@media (max-width: 767px) {
+  .elementor-widget-image .widget-image-caption {
+    font-size: var(--e-global-typography-text-font-size);
+    line-height: var(--e-global-typography-text-line-height);
+  }
+  .elementor-widget-icon-list
+    .elementor-icon-list-item
+    > .elementor-icon-list-text,
+  .elementor-widget-icon-list .elementor-icon-list-item > a {
+    font-size: var(--e-global-typography-text-font-size);
+    line-height: var(--e-global-typography-text-line-height);
+  }
+  .elementor-1374
+    .elementor-element.elementor-element-87d302a
+    .elementor-icon-list-item
+    > .elementor-icon-list-text,
+  .elementor-1374
+    .elementor-element.elementor-element-87d302a
+    .elementor-icon-list-item
+    > a {
+    font-size: 40px;
+  }
+  .elementor-1374 .elementor-element.elementor-element-5f924b7 {
+    --e-con-grid-template-columns: repeat(2, 1fr);
+    --gap: 40px 40px;
+    --row-gap: 40px;
+    --column-gap: 40px;
+    --grid-auto-flow: row;
+  }
+  .elementor-1374
+    .elementor-element.elementor-element-eb80053
+    .elementor-icon-list-item
+    > .elementor-icon-list-text,
+  .elementor-1374
+    .elementor-element.elementor-element-eb80053
+    .elementor-icon-list-item
+    > a {
+    font-size: 16px;
+  }
+  .elementor-widget-button .elementor-button {
+    font-size: var(--e-global-typography-accent-font-size);
+    line-height: var(--e-global-typography-accent-line-height);
+  }
+} /* Start custom CSS for icon-list, class: .elementor-element-87d302a */
+.elementor-1374 .elementor-element.elementor-element-87d302a li a {
+  flex-direction: row-reverse;
+}
+.elementor-1374 .elementor-element.elementor-element-87d302a li,
+.elementor-1374 .elementor-element.elementor-element-87d302a li a {
+  text-align: left !important;
+}
+.elementor-1374
+  .elementor-element.elementor-element-87d302a
+  .elementor-icon-list-icon {
+  padding-left: 10px;
+  padding-top: 10px;
+} /* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-5457465 */
+.elementor-1374 .elementor-element.elementor-element-5457465 .elementor-button {
+  background-image: url("https://jetsavetours.in/wp-content/uploads/2024/03/Vector-4.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: bottom left;
+} /* End custom CSS */
